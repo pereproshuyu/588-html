@@ -1,0 +1,39 @@
+/*
+* {
+    margin: 0px;
+    paddin: 0px;
+}
+*/
+.logo {
+    color: red;
+    front-size: 48px;
+}
+
+:root {
+    font-family: rgb;
+    color: rgb;
+}
+img{
+    max-width: 400px;
+}
+
+#home {
+    margin-top: 100px;
+}
+
+p {
+    font-family: 'Anton', sans-serif;
+}
+
+p:hover {
+    text-decoration: underline;
+}
+
+p::first-letter {
+    font-size: 24px;
+    color: green;
+}
+
+*{
+
+}
